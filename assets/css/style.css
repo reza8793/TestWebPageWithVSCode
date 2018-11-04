@@ -40,6 +40,34 @@ h1{
 	/*padding: 10px 10px 30px 30px;*/
 }
 
+
+
+.col-md-4 {
+
+	border: solid 1px;
+	margin-left: 30px;
+	height: 600px;
+	width: 650px;
+	margin-top : 10px;
+	margin-left: 40px;
+	margin-right: 805px;
+	line-height: 30px;
+	font-family:'Arial';
+}
+
+
+.col-md-8 {
+
+	border: solid 1px;
+	margin-left: 30px;
+	height: 600px;
+	width: 650px;
+	margin-top : 10px;
+	margin-left: 40px;
+	margin-right: 805px;
+	line-height: 30px;
+	font-family:'Arial';
+}
 .col-lg-8 {
 
 	border: solid 1px;
